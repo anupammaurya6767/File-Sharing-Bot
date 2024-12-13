@@ -67,7 +67,7 @@ class Bot(Client):
             sys.exit()
 
         self.set_parse_mode(ParseMode.HTML)
-        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nAnupam Maurya")
+        self.LOGGER(__name__).info(f"Bot Running..!\n\nCreated by \nTanjiro-Sama (@tanjiro_sama_03)")
         print(ascii_art)
         print("""Welcome to File Sharing Bot""")
         self.username = usr_bot_me.username
