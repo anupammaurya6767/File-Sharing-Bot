@@ -1,13 +1,13 @@
 {
-  "name": "TG File Share/Sharing Bot",
+  "name": "Tanjiro-sama File Sharing bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "repository": "https://t.me/tanjiro_sama_03",
+  "logo": "https://avatars.githubusercontent.com/u/96181413?v=4",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1936211846"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -27,7 +27,7 @@
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": "tanjiro-sama"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
